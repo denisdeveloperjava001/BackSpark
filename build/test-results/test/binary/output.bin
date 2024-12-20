@@ -1,0 +1,5 @@
+¬23:49:14.251 [Test worker] INFO ru.backspark.demo.controller.SocksController - Request received 'income'. Request parameters: Color red, Cotton percentage 50, Amount 101.
+Õ23:49:14.292 [Test worker] INFO ru.backspark.demo.controller.SocksController - Request received 'update'. Request parameters: Id 674bd669-0de2-4bd4-a028-968abfd40f75, Color red, Cotton percentage 50, Amount 500.
+¬23:49:14.298 [Test worker] INFO ru.backspark.demo.controller.SocksController - Request received 'income'. Request parameters: Color red, Cotton percentage 50, Amount 101.
+¬23:49:14.302 [Test worker] INFO ru.backspark.demo.controller.SocksController - Request received 'outcome'. Request parameters: Color red, Cotton percentage 50, Amount 50.
+­23:49:14.307 [Test worker] INFO ru.backspark.demo.controller.SocksController - Request received 'outcome'. Request parameters: Color red, Cotton percentage 50, Amount 500.
