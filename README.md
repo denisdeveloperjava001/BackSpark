@@ -1,9 +1,9 @@
 # READ ME
-Тестовый csv файл - /dev/file.csv
+РўРµСЃС‚РѕРІС‹Р№ csv С„Р°Р№Р» - /dev/file.csv
 
-SQL скрипт для создания базы данных - dev/init.sql
+SQL СЃРєСЂРёРїС‚ РґР»СЏ СЃРѕР·РґР°РЅРёСЏ Р±Р°Р·С‹ РґР°РЅРЅС‹С… - dev/init.sql
 
-Покрытие тестами
+РџРѕРєСЂС‹С‚РёРµ С‚РµСЃС‚Р°РјРё
 ![img.png](dev/image/tests_coverage.png)
 
 Swagger
